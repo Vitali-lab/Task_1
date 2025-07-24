@@ -1,0 +1,10 @@
+.table {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+}
+.name {
+  padding: 5px;
+  border-radius: 10px;
+  color: white;
+}
